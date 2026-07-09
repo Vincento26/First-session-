@@ -1,0 +1,2 @@
+input[continue]
+print(input)
